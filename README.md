@@ -1,3 +1,3 @@
 # 2.Taks_Game...Only_Android_Java_file...
     -- 2015년 09월 01일 ~ 12월 20일 까지 진행한 개인 졸업 작품 입니다. 
-    -- 이것은 안드로이드 전체 파일을 포함하고 있습니다. src/com/example/taksintroduction에 가시면 코드를 보실수 있습니다.
+    -- 코드만 모아 놓은 것이며 안드로이드 전체 파일은 2.Taks_Game...Android_Full_File...에 있습니다.
